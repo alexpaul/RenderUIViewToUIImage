@@ -16,4 +16,4 @@ func createImage() {
 
 ![Screen Shot 2021-07-28 at 6 47 02 PM](https://user-images.githubusercontent.com/1819208/127405934-026bc164-f9d9-4330-98bf-26210f8d93ec.png)
 
-> If working on your own app and saving to the user's camera roll remember to add the `NSPhotoLibraryAddUsageDescription` key and a String explaning the reason for saving to their camera roll.
+> If working on your own app and saving to the user's camera roll remember to add the `NSPhotoLibraryAddUsageDescription` key and a String explaning the reason for saving to their camera roll to the `Info.plist`.
